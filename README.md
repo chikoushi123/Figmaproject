@@ -1,24 +1,34 @@
-# Figmaproject
-# Moso Kola Hof – Winery Website Design
+# Figma Projects – UI / UX & Web Design
 
-This project presents the concept and visual design of a modern website for the winery **Moso Kola Hof**.
+This repository collects my design and interface projects created in **Figma**.
 
-The goal was to combine traditional wine culture with a clean, elegant and contemporary digital appearance.  
-Special focus was placed on atmosphere, readability and a premium feeling.
+The works focus on visual communication, user experience, layout structure and interactive thinking.  
+They are part of my education in multimedia development and represent my design workflow from concept to prototype.
 
 ---
 
-## Project Focus
-- Visual identity & mood
-- Layout and user guidance
-- Presentation of products and winery
-- Elegant typography and reduced color palette
-- Combination of large images and structured information
+## Included Projects
+
+### Moso Kola Hof – Winery Website
+Modern website concept for a winery.  
+The project combines tradition with a clean and elegant digital presentation, using large imagery, calm typography and structured navigation.
+
+👉 View in Figma:  
+https://www.figma.com/design/yUwhvNvyT41kA0pcri0t5X/Untitled?m=auto&t=uzGMpUT0PJL9chjX-1
+
+---
+
+### Personal Profile – David Li
+Design of my personal portfolio and presentation website.  
+Focus on clarity, professional appearance and structured information to communicate skills and projects effectively.
+
+👉 View in Figma:  
+https://www.figma.com/design/p0ziApmTijRs2GF8HUspOF/Davidprofil?m=auto&t=uzGMpUT0PJL9chjX-1
 
 ---
 
 ## My Role
-Design, concept development and UI/UX planning.
+Concept, UI/UX design, layout, visual hierarchy and prototype planning.
 
 ---
 
@@ -27,11 +37,5 @@ Figma
 
 ---
 
-## Preview
-👉 Figma prototype / design file:  
-PASTE_YOUR_FIGMA_LINK_HERE
-
----
-
-## Notes
-This project was created as part of my multimedia and interface design training.
+## About
+These projects demonstrate my development from idea to interactive design and are continuously expanded with new works.
