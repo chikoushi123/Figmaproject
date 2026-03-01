@@ -26,6 +26,13 @@ Focus on clarity, professional appearance and structured information to communic
 https://www.figma.com/design/p0ziApmTijRs2GF8HUspOF/Davidprofil?m=auto&t=uzGMpUT0PJL9chjX-1
 
 ---
+### BORY – Product Landing Page (UI/UX Design)
+This project is a modern product-focused landing page designed for BORY, a technology brand specializing in SSD and memory products.
+
+👉 View in Figma:  
+https://www.figma.com/design/J77pmcs91HEd1jW05FrL5O/Untitled?node-id=0-1&t=MLNEXkE79qpPJS5y-1
+
+---
 
 ## My Role
 Concept, UI/UX design, layout, visual hierarchy and prototype planning.
