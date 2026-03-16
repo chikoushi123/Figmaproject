@@ -32,6 +32,7 @@ https://www.figma.com/design/p0ziApmTijRs2GF8HUspOF/Davidprofil?m=auto&t=uzGMpUT
 ### BORY – Product Landing Page (UI/UX Design)
 This project is a modern product-focused landing page designed for BORY, a technology brand specializing in SSD and memory products.
 <img width="460" height="284" alt="Image" src="https://github.com/user-attachments/assets/a9db0c3f-d18d-499a-b064-b5f336d3d7f2" />
+
 👉 View in Figma:  
 https://www.figma.com/design/J77pmcs91HEd1jW05FrL5O/Untitled?node-id=0-1&t=MLNEXkE79qpPJS5y-1
 
